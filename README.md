@@ -8,6 +8,6 @@
 ## 5. Studying 
 ========================================
 # **GROUP MEMBERS**
-###### *1. Clyde Cutimar*
-###### *2. Rafael Reglo Virtudazo*
+###### 1. Clyde Cutimar
+###### 2. Rafael Reglo Virtudazo
 ========================================
